@@ -1,0 +1,4 @@
+baseURL = 'https://webgpt.cz/'
+languageCode = 'en-us'
+title = 'WebGPT Documentation'
+theme = "hugo-book"
