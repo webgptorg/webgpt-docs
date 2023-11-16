@@ -2,3 +2,5 @@ baseURL = "https://webgptorg.github.io/webgpt-docs/"
 languageCode = 'en-us'
 title = 'WebGPT Documentation'
 theme = "hugo-book"
+[markup.goldmark.renderer]
+  unsafe = true
