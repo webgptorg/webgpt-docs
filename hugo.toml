@@ -1,4 +1,5 @@
-baseURL = 'https://webgpt.cz/'
+baseURL = "https://webgptorg.github.io/webgpt-docs/"
+relativeURLs = true
 languageCode = 'en-us'
 title = 'WebGPT Documentation'
 theme = "hugo-book"
