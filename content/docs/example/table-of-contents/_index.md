@@ -2,14 +2,20 @@
 weight: 10
 ---
 
-# Ubi loqui
+# Important information
 
-## Mentem genus facietque salire tempus bracchia
+This subsite is intended to temporarily aggregate all the information that is discussed somewhere else within the
+company's information channels. In the long run ot will be classified and moved to the appropriate subsites. For now,
+we just want to have all relevant information at one place.
 
-Lorem markdownum partu paterno Achillem. Habent amne generosi aderant ad pellem
-nec erat sustinet merces columque haec et, dixit minus nutrit accipiam subibis
-subdidit. Temeraria servatum agros qui sed fulva facta. Primum ultima, dedit,
-suo quisque linguae medentes fixo: tum petis.
+## Roadmap
+
+The product roadmap is being built [here](https://github.com/orgs/webgptorg/projects/1) and constantly evolving.
+It is not publicly available and is managed as a GitHub project (not a GitHub project classic). There is quite
+a lot of good resources available on the web on how to use GitHub projects that we strive to follow:
+ - [Github Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)
+ - [Github Project Roadmaps (video tutorial)](https://www.youtube.com/watch?v=D80u__nYYWw&list=PL0lo9MOBetEFHlePrJbm4e5XJV-_NSfgW&index=3)
+ - [Github Project Fields (video tutorial)](https://www.youtube.com/watch?v=l83Zr1ckC9s&list=PL0lo9MOBetEFHlePrJbm4e5XJV-_NSfgW&index=1)
 
 ## Rapit vocant si hunc siste adspice
 
