@@ -5,7 +5,7 @@ type: docs
 
 # To Have a Web, Not To Just Make It!
 
-## A Manifesto
+## Manifest 
 
 We are democratizing the ability to have a web presence.
 
