@@ -41,6 +41,10 @@ automation of processes.
 
 ## Contributing
 
+{{< hint danger >}}
+I am going mad about this.
+{{< /hint >}}
+
 To contribute to the documentation, you need to have Hugo installed. Follow these steps to install Hugo:
 
 1. Download the latest version of Hugo from the [official releases page](https://github.com/gohugoio/hugo/releases).
