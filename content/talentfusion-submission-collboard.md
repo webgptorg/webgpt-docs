@@ -13,3 +13,4 @@ This can be great for businesses that want to create their own interactive white
 
 We have integrated Collboard with electronic pupil books H-edu, which is used by many Czech schools.
 
+https://drive.google.com/drive/u/0/folders/15_qYEPev79DQWlolqYLJVpBXgx41YzFj
